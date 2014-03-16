@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-alpaca",
+  "version": "0.0.1",
+  "description": "Simple library for converting Mongoose models to Alpaca schemas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pvencill/mongoose-alpaca.git"
+  },
+  "keywords": [
+    "mongoose",
+    "alpaca",
+    "node.js"
+  ],
+  "author": "Paul Vencill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pvencill/mongoose-alpaca/issues"
+  },
+  "homepage": "https://github.com/pvencill/mongoose-alpaca"
+}
